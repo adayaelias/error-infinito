@@ -6,8 +6,8 @@ package net.severo.entdes;
  */
 public class Factorial {
 
-	public static final String VALUE_OF_N = "Wert von n: ";
-	public static final String VALUE_OF_N1 = "Wert von n!: ";
+	public static final String VALUE_OF_N = "jonkin arvo n: ";
+	public static final String VALUE_OF_N1 = "jonkin arvo n!: ";
 
 	public static void main(String[] args) {
 
